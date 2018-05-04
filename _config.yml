@@ -1,0 +1,9 @@
+name: Some Name
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+
+sass:
+  sass_dir: _sass
+
+version: 1.0.0

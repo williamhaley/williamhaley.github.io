@@ -1,0 +1,10 @@
+---
+# https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/
+---
+
+@import "{{ site.theme }}";
+@import "global";
+
+body {
+    background-color: pink;
+}
